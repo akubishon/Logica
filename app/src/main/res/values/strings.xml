@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="submit">Submit</string>
+    <string name="conjunction">Conjunction (AND)</string>
+    <string name="disjunction">Disjunction (OR)</string>
+    <string name="letter_A">A</string>
+    <string name="letter_B">B</string>
+    <string name="letter_T">T</string>
+    <string name="letter_F">F</string>
+    <string name="caret">A ^ B</string>
+    <string name="reversed_caret">A ∨ B</string>
+    <string name="empty_field">Make sure all fields are filled!</string>
+    <string name="correct_answer">YEEEHAW, on to disjunction!</string>
+    <string name="finish">Nicely done, you have completed all levels!</string>
+    <string name="answer">Answer&#8230;</string>
+    <string name="incorrect_answer">One or more answers are incorrect, try again!</string>
+</resources>
